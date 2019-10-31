@@ -2,24 +2,43 @@
 
 }
 
-nav {
-   
+.container {
+
 }
 
 ul {
-    background-image: url(https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png);
-    left: 100px;
-    list-style: none;
-    position: fixed;
-    right: 100px;
-    text-align: center;
-    top: 100px;
+  display:flex;
+  background: black;
+  justify-content: space-around;
+  list-style: none;
+  align-items: center;
+  margin-top: 200px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border-radius: 5px;
 }
 
 li {
-    color: #fff;
-    display: inline-block;
-    padding: 5px 10px;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
+  
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+li a {
+  color: #fff;
+  width: 100%;
+  text-decoration: none;
+}
+
+.search-button-nav {
+
+}
+
+.search-bar {
+  background-image: url(../resources/search-icon.svg);
+  background-size: 15px 15px;
+  background-position: 1px 1px;
+  background-repeat: no-repeat;
+  border-radius: 15px;
+  padding-left: 20px;
 }
