@@ -1,0 +1,25 @@
+* {
+
+}
+
+nav {
+   
+}
+
+ul {
+    background-image: url(https://archive.md/UW4oR/959dc37b1b6692997a6d3ab19862dd59e5e83ecf.png);
+    left: 100px;
+    list-style: none;
+    position: fixed;
+    right: 100px;
+    text-align: center;
+    top: 100px;
+}
+
+li {
+    color: #fff;
+    display: inline-block;
+    padding: 5px 10px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
