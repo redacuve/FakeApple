@@ -9,7 +9,7 @@
     <a href="https://github.com/redacuve/FakeApple//tree/docs"><strong>Explore the docs »</strong></a>
 <br>
 <br> 
-    <a href="https://raw.githack.com/redacuve/FakeApple/master/index.html">View Demo</a>
+    <a href="https://rawcdn.githack.com/redacuve/FakeApple/83b70ac7f82bfd4b3621a5149c60d68bec3b0727/index.html">View Demo</a>
 <br> 
     <a href="https://github.com/redacuve/FakeApple/issues">Request Feature</a>
 </p>
