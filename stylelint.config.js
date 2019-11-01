@@ -38,9 +38,9 @@
     <meta property="og:image" content="https://avatars1.githubusercontent.com/u/53204984?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="redacuve/FakeNYT" /><meta property="og:url" content="https://github.com/redacuve/FakeNYT" /><meta property="og:description" content="Contribute to redacuve/FakeNYT development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDU5MDcwNzczOmZiMzU2Y2EzNTNmOTk1MzFkNGZiNjBiNzk0MDI5ZmUwNjhlMzFjNDY1NjU2ZDg1Y2ZlYTFhNWY0ZjM1NGY4M2M=--e04cf04b258a173cd8f55feaa431adb55b7c7796">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDU5MDcwNzczOjJjMWQ4Njk4ZjRmMTZkOWZhMzZhZDIwMTI0NzBlOTExMjMyNzdhNzdkNjY1MzY3ZTk2OGNmNTM2NWIwZTAyYjM=--07337965afbfaafdd6da1d010103c2b27df2d989">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="5226:53EE:4E5C02:80AE96:5DBC6802" data-pjax-transient>
+  <meta name="request-id" content="5226:53EE:4E55C7:80A2CA:5DBC67B4" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="5226:53EE:4E5C02:80AE96:5DBC6802" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="5220385539855637636" /><meta name="octolytics-actor-id" content="53204984" /><meta name="octolytics-actor-login" content="redacuve" /><meta name="octolytics-actor-hash" content="a02895a3b5270b35ce488485e2daa7744ef4d14763f641676dfe717570d9431a" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="5226:53EE:4E55C7:80A2CA:5DBC67B4" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="5220385539855637636" /><meta name="octolytics-actor-id" content="53204984" /><meta name="octolytics-actor-login" content="redacuve" /><meta name="octolytics-actor-hash" content="a02895a3b5270b35ce488485e2daa7744ef4d14763f641676dfe717570d9431a" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -70,7 +70,7 @@
     <meta name="user-login" content="redacuve">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="NWEwM2ViNjI4NjYwZTFlMTdjYTZiMzFiMmY5Yjc2Y2YyZDZiNDBlYWQwMjAzMzNiM2M4MmMwNjM4NGMyYzY4ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTg3LjE5MC4xNTYuMTAxIiwicmVxdWVzdF9pZCI6IjUyMjY6NTNFRTo0RTVDMDI6ODBBRTk2OjVEQkM2ODAyIiwidGltZXN0YW1wIjoxNTcyNjI4NDg3LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="NTMzNmI4MGVjNDU3NTU3M2NjNDM1MTA3NmI1NTQ4OGI0NDRjZWE1NDM0NjczZjRlODQxYmQ2ZWJlY2ViNzMwNHx7InJlbW90ZV9hZGRyZXNzIjoiMTg3LjE5MC4xNTYuMTAxIiwicmVxdWVzdF9pZCI6IjUyMjY6NTNFRTo0RTU1Qzc6ODBBMkNBOjVEQkM2N0I0IiwidGltZXN0YW1wIjoxNTcyNjI4NDEyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="ACTIONS_V2_ON_MARKETPLACE,MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -160,7 +160,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=ArbLzYQVCkTj4cWxeOqHO+EllbYvPp01ajwXb9fnc5KTpMfSiOt19lDBZDomo6bYuKLAH7E5wGQHUISCsvyIIA=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=7PWqBEe2XOep6ly/IGw9ZHnmJZINMbBqfYIlXdAxUSB956YbS0gjVRrK/TR+JRyHIGFwO5M27TsQ7rawtSqqkg=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -313,7 +313,7 @@
       <img class="avatar" height="20" width="20" alt="@redacuve" src="https://avatars1.githubusercontent.com/u/53204984?s=60&amp;v=4" />
       redacuve
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="BClgbEd3M4ZR86/3xPE4Bc7uWm3BS0zac9hM5Sq3MPlIwx/5jZEi+oWLk9NQTVwkQVMBKWEdTFECZJ8uiXLf5A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="LEWyjO3ngpZramT8Kb+5yi+9eG7X/hcu/mcfOUlt27Fgr80ZJwGT6r8SWNi9A93roAAjKneoF6WP28zy6qg0rA==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -406,7 +406,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:53204984,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:53204984,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;}}" data-hydro-click-hmac="fdc89fa25ff3a31792aa11825e69efa9aea73cc5f2be35b4e8d021b923e9c733">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:53204984,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:53204984,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;}}" data-hydro-click-hmac="874360592514c42387a12502f7719f1bc441d2822f9089892f7d7f44b6c591c1">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -433,7 +433,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="O11TQL+oXSUvaCFoyRf7ppChpmmWxhNpjutQs+NTMPiOlVVi6/xXwJfyY3mqU7Az3s5vpjxyyN8pSiflnmKthg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Mdjjt7d4Pg12j4/BXoLqBJd6Y+T9puXJ5FKs4y2w0o+EEOWV4yw06M4VzdA9xqGR2RWqK1cSPn9D89u1UIFP8Q==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -553,17 +553,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-11-01T11:44:47-06:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2019-11-01T11:43:32-06:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-11-01T12:14:47-06:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2019-11-01T12:13:32-06:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-11-01T15:14:47-06:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2019-11-01T15:13:32-06:00">
             in 4 hours
           </button>
         </li>
@@ -621,10 +621,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/redacuve/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}"
-    data-feature-preview-close-hmac="3c9087336ae5698f5f4af065d91a10bfb59596343d684c009a607ae979f77cfd"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}"
-    data-hydro-click-hmac="be4868473a14f8ec618fd16c86105b9f8ad7625cc00193d30fcead563ab4aae6"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}"
+    data-feature-preview-close-hmac="b647c1fc2d0c2e7611f7a9feaf5d6e45bd48776833aa72c528174c09eff9e7b1"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}"
+    data-hydro-click-hmac="d95493d73e9d116e7c05b84d3132cdf0db0523e815a8a823b6f8974ecb6c70a4"
   >
     Feature preview
   </button>
@@ -633,7 +633,7 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="suCQ3aqYLA83qwL15RQt1wokTIuxbMvVEDskjkPc097+Cu9IYH49c+PTPtFxqEn2hZkXzxE6y15hh/dF4Bk8ww==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XVVRkNsu1RDRpng6ry3aqtWuY0OKovgXncSxLVRs3IQRvy4FEcjEbAXeRB47kb6LWhM4Byr0+JzseGLm96kzmQ==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
@@ -690,10 +690,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="haanrxFpTwfKHGhAxVxvCHhzzxDGal0dQ9/9ZYf0BRbVDhRKA1YdpHKHJ9j1Y+ZLsGL0yPisYsa/FgF6NiYwCA==" />      <input type="hidden" name="repository_id" value="217615511">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="9Clb+2zsmdsMWdCS5xofdKdnK4aZWeuaQtuiYt3pCnWkgegeftPLeLTCnwrXJZY3b3YQXqef1EG+El59bDs/aw==" />      <input type="hidden" name="repository_id" value="217615511">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="2a21988bbe228e48304779984bfd111a3a46fdd85c50054d85b4da8feb1561e6" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="83adf8a9d4c22d39da719b1732578cd4407a618e963e527c8448cafd0d146f41" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Unwatch
           </span>
@@ -764,18 +764,18 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/redacuve/FakeNYT/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="CTkLNgP4QBKYYTw5jtt+XGFhYBvd/1GuUZz5S/MLv0o/wQyUW8zdp/1efu+UU/J01VCg6b5YE3uXiTXBdvNs8w==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/redacuve/FakeNYT/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ciOloUBK7yhZY7BxczN8+70b9Dt9lkg3naPBln41vSJE26IDGH5ynTxc8qdpu/DTCSo0yR4xCuJbtg0c+81umw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar redacuve/FakeNYT" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="01892310f02b6b98b0e8854930a3c1d40fdf68d8f4058f5d5eafd9346221eaa7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar redacuve/FakeNYT" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="b18575997f74eebf209b6a08e37ac7bee5a594956aafc2b49bc5267b86c4b23a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Unstar
 </button>        <a class="social-count js-social-count" href="/redacuve/FakeNYT/stargazers"
            aria-label="0 users starred this repository">
            0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/redacuve/FakeNYT/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="+9BF7EJC/X31FFvu1T0DQVSb+P5pAjCptihrm82NNjrUrGO5kaIYjXjb0mpfU6olBDGn47g+xDXKx7jRgeVrsw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/redacuve/FakeNYT/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XsiYXdg1AzvJxXKY8LjXo1b11fJfT2UrebFYCiwAF7lxtL4IC9Xmy0QK+xx61n7HBl+K745zkbcFXotAYGhKMA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star redacuve/FakeNYT" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E5C02:80AE96:5DBC6802&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="59cd7b1a12ef2f979f47e4e91cd4e70bb7c7797e928651c71ff4170a6eba13cc" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star redacuve/FakeNYT" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:217615511,&quot;client_id&quot;:&quot;1215465725.1571708036&quot;,&quot;originating_request_id&quot;:&quot;5226:53EE:4E55C7:80A2CA:5DBC67B4&quot;,&quot;originating_url&quot;:&quot;https://github.com/redacuve/FakeNYT/blob/master/stylelint.config.js&quot;,&quot;referrer&quot;:&quot;https://github.com/redacuve/FakeNYT&quot;,&quot;user_id&quot;:53204984}}" data-hydro-click-hmac="eab23561a58060bfe1f0cee2ebf2dc08f3e6bedc42f066f214b69802d1915b42" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
         Star
 </button>        <a class="social-count js-social-count" href="/redacuve/FakeNYT/stargazers"
            aria-label="0 users starred this repository">
@@ -1016,13 +1016,13 @@
 
     <div>
 
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/redacuve/FakeNYT/edit/master/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Al1S5ZurfmCBrpAtNs+dFnZ/vi3goZH0Tdu2MO+oZ/sDuorKJonL2BA9OVuLb5Gl9OvqLFt3b3Xkz8NXtXOb8A==" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/redacuve/FakeNYT/edit/master/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="m7BQbFMPMcP4crya+CpDI8lMhxbQ4hzNReNqtpVPtoeaV4hD7i2Ee2nhFexFik+QS9jTF2s04kzs9x/Rz5RKjA==" />
               <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
                 aria-label="Edit this file" data-hotkey="e" data-disable-with>
                 <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
               </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/redacuve/FakeNYT/delete/master/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VQ5XnBfCfckI++eF+7pLigs2OIRp0Od9dnGaEvQALKyDxYyu7eTCnlKS4CfDVsuE7aMlv4Leknlwf0lXVF3HDQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/redacuve/FakeNYT/delete/master/stylelint.config.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NVhVoJpoaHhqZiczkHutZVlsW2+M0YQw44CI2spQofzjk46SYE7XLzAPIJGoly1rv/lGVGff8TTljlufag1KXQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete this file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1530,7 +1530,7 @@
 <div class="footer container-lg width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.30400s from unicorn-64d655d887-pmgmf">GitHub</span>, Inc.</li>
+      <li class="mr-3 mr-lg-0">&copy; 2019 <span title="0.45985s from unicorn-canary-b8b8557d8-sd29v">GitHub</span>, Inc.</li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
