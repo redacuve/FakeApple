@@ -7,22 +7,21 @@ body {
 }
 
 .main-section {
+  background-color: transparent;
+  background-image: url(../resources/main-background.jpg);
   background-position: 50% 100%;
   background-repeat: no-repeat;
-  /* margin: 0px 0px 0px -720px; */
-  padding: 0px;
-  background-image: url(../resources/main-background.jpg);
   background-size: 1440px 1315px;
-  background-color: transparent;
-  height: 60vh;
   color: white;
-  text-align: center;
   display:block;
+  height: 60vh;
+  padding: 0px;
+  text-align: center;
 }
 
 .main-section h1 {
-  font-weight: 100;
   font-size: 4em;
+  font-weight: 100;
   margin-top: 0;
 }
 
@@ -80,8 +79,8 @@ aside div img {
 }
 
 .footer {
-  font-size: 10px;
   color: gray;
+  font-size: 10px;
 }
 
 .footer ul {
@@ -95,10 +94,10 @@ aside div img {
 }
 
 .footer-flex li {
-  padding: 0 3px;
   border-left-color: rgb(204, 204, 204);
   border-style: none none none solid;
   border-width: medium medium medium 1px;
+  padding: 0 3px;
 }
 
 .footer-flex li a {
