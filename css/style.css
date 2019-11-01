@@ -1,4 +1,4 @@
-*{
+* {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -13,9 +13,9 @@ body {
   background-repeat: no-repeat;
   background-size: 1440px 1315px;
   color: white;
-  display:block;
+  display: block;
   height: 63vh;
-  padding: 0px;
+  padding: 0;
   text-align: center;
 }
 
@@ -27,6 +27,12 @@ body {
 
 .main-section p {
   font-size: 1.5em;
+}
+
+.container a {
+  color: #fff;
+  text-decoration: none;
+  width: 100%;
 }
 
 .main-section p a {
@@ -46,12 +52,6 @@ body {
   right: 0;
   text-align: center;
   width: 80%;
-}
-
-.container a {
-  color: #fff;
-  text-decoration: none;
-  width: 100%;
 }
 
 .search-bar {
