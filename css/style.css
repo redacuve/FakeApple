@@ -68,3 +68,13 @@ body {
 .viewportdiv {
   height: 15vh;
 }
+
+.grid-aside {
+  display: grid;
+  grid-template: 1fr / repeat(4, 1fr);
+  height: 30vh;
+}
+
+aside div img {
+  width: 100%;
+}
