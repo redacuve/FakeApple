@@ -78,3 +78,42 @@ body {
 aside div img {
   width: 100%;
 }
+
+.footer {
+  font-size: 10px;
+  color: gray;
+  height: 
+}
+
+.footer ul {
+  list-style: none;
+  margin: 1px 0 2px 0;
+  padding: 0;
+}
+
+.footer-flex {
+  display: flex;
+}
+
+.footer-flex li {
+  padding: 0 3px;
+  border-left-color: rgb(204, 204, 204);
+  border-style: none none none solid;
+  border-width: medium medium medium 1px;
+}
+
+.footer-flex li a {
+  text-decoration: none;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
