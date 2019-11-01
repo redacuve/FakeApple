@@ -6,12 +6,12 @@
   <h3 align="center">3rd Project. BUILDING WITH BACKGROUNDS AND GRADIENTS</h3>
   <p align="center">
 <br>
-    <a href="/tree/smashing"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/redacuve/FakeApple//tree/docs"><strong>Explore the docs »</strong></a>
 <br>
 <br> 
-    <a href="https://raw.githack.com>View Demo</a>
+    <a href="https://raw.githack.com/redacuve/FakeApple/master/index.html">View Demo</a>
 <br> 
-    <a href="https://github.com/">Request Feature</a>
+    <a href="https://github.com/redacuve/FakeApple/issues">Request Feature</a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -90,7 +90,7 @@ No licenses required as project was developed in educational eviroment.
 
 Rey David Cuevas Vela - [@redacuve](https://twitter.com/redacuve) - redacuve@gmail.com
 
-Project Link: [github.com/redacuve/FakeApple](https://github.com/redacuve/FakeApple
+Project Link: [github.com/redacuve/FakeApple](https://github.com/redacuve/FakeApple)
 
 <!-- ACKNOWLEDGEMENTS -->
 
